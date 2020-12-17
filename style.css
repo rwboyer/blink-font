@@ -1,0 +1,12 @@
+.ibm3270{
+  font-family: 'ibm3270regular', Courier, monospace ;
+}
+
+.ttu{
+  text-transform: uppercase;
+}
+
+.wrap{
+  max-width: 70%;
+  margin: auto;
+}
